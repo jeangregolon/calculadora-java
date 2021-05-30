@@ -2,7 +2,7 @@
 
 O projeto consiste em uma calculadora simples que possui as 4 operações matemáticas básicas. Foi desenvolvida no curso Desenvolvimento Web Completo ministrado por Jamilton Damasceno e Jorge Sant'Ana na Udemy.
 
-![Screenshot da calculadora](https://github.com/jeangregolon/calculadora-java/blob/main/calculadora-java-desktop.png)
+![Screenshot da calculadora](https://github.com/jeangregolon/assets/blob/main/calculadora-java-desktop.png)
 
 # Tecnologias utilizadas
 - JavaScript

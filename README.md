@@ -1,4 +1,5 @@
 # Calculadora Java
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jeangregolon/calculadora-java/blob/main/LICENSE)
 
 O projeto consiste em uma calculadora simples que possui as 4 operações matemáticas básicas. Foi desenvolvida no curso Desenvolvimento Web Completo ministrado por Jamilton Damasceno e Jorge Sant'Ana na Udemy.
 
